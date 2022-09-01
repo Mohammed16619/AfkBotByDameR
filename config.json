@@ -1,7 +1,7 @@
 {
 	"ip":"Gameingteam.aternos.me",
 	"port": 15772,
-	"name": "afkbot",
+	"name": "afkbot2",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
